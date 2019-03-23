@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    
+    <h1>Added feature 1 to application.</h1>
 </body>
 </html>
