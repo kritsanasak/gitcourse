@@ -9,6 +9,14 @@
 <body>
 <h1>Category</h1>
 <h3>Show information category.</h3>
-    
+    <div>
+        <ul>
+            <li>a</li>
+            <li>b</li>
+            <li>c</li>
+            <li>d</li>
+            <li>e</li>
+        </ul>
+    </div>
 </body>
 </html>
