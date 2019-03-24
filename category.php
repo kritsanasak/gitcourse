@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>Category</h1>
+<h3>Show information category.</h3>
     
 </body>
 </html>
